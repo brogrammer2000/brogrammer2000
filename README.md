@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brogrammer2000
+- 👋 Hi, I’m Satyam Arora
 - 👀 I’m interested in data science with python
 - 🌱 I’m currently learning Machine learning algorithms
 - 💞️ I’m looking to collaborate on Data Science Projects
