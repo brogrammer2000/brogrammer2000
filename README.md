@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Satyam Arora
-- 👀 I’m interested in data science with python
-- 🌱 I’m currently learning Machine learning algorithms
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in front-end with JavaScript and Data Science with Python
+- 🌱 I’m currently developing web-apps with React
+- 💞️ I’m looking to collaborate on real-world projects
 - 📫 email me @ arorasatyam1112@gmail.com
 
 <!---
